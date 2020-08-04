@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget{
       title:'Text widget',
       home:Scaffold(
         appBar: new AppBar(
-          title: new Text('ListView Widget'),
+          title: new Text('GridView Widget'),
         ),
         // 现在不太常用这种方式了
         // body:GridView.count(
